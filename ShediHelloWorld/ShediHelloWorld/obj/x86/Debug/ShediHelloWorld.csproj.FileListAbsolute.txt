@@ -1,0 +1,9 @@
+D:\sc\VISUAL PROG\ShediHelloWorld\ShediHelloWorld\bin\Debug\ShediHelloWorld.exe
+D:\sc\VISUAL PROG\ShediHelloWorld\ShediHelloWorld\bin\Debug\ShediHelloWorld.pdb
+D:\sc\VISUAL PROG\ShediHelloWorld\ShediHelloWorld\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\sc\VISUAL PROG\ShediHelloWorld\ShediHelloWorld\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\sc\VISUAL PROG\ShediHelloWorld\ShediHelloWorld\obj\x86\Debug\ShediHelloWorld.csproj.GenerateResource.Cache
+D:\sc\VISUAL PROG\ShediHelloWorld\ShediHelloWorld\obj\x86\Debug\ShediHelloWorld.exe
+D:\sc\VISUAL PROG\ShediHelloWorld\ShediHelloWorld\obj\x86\Debug\ShediHelloWorld.pdb
+D:\sc\VISUAL PROG\ShediCat\HelloWorld\ShediHelloWorld\ShediHelloWorld\obj\x86\Debug\ShediHelloWorld.exe
+D:\sc\VISUAL PROG\ShediCat\HelloWorld\ShediHelloWorld\ShediHelloWorld\obj\x86\Debug\ShediHelloWorld.pdb

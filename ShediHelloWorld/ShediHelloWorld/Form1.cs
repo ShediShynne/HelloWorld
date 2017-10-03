@@ -20,5 +20,10 @@ namespace WindowsFormsApplication1
         {
             btn_dontpush.Visible = false;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -40,11 +40,12 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Kristen ITC", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Maroon;
-            this.label1.Location = new System.Drawing.Point(54, 63);
+            this.label1.Location = new System.Drawing.Point(49, 79);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(164, 33);
+            this.label1.Size = new System.Drawing.Size(178, 33);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Hello World";
+            this.label1.Text = "Hello World!!";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btn_dontpush
             // 
@@ -52,11 +53,12 @@
                         | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_dontpush.BackColor = System.Drawing.Color.DarkRed;
+            this.btn_dontpush.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btn_dontpush.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_dontpush.ForeColor = System.Drawing.Color.White;
-            this.btn_dontpush.Location = new System.Drawing.Point(43, 48);
+            this.btn_dontpush.ForeColor = System.Drawing.Color.Linen;
+            this.btn_dontpush.Location = new System.Drawing.Point(36, 77);
             this.btn_dontpush.Name = "btn_dontpush";
-            this.btn_dontpush.Size = new System.Drawing.Size(191, 69);
+            this.btn_dontpush.Size = new System.Drawing.Size(191, 43);
             this.btn_dontpush.TabIndex = 1;
             this.btn_dontpush.Text = "Don\'t push the button";
             this.btn_dontpush.UseVisualStyleBackColor = false;
